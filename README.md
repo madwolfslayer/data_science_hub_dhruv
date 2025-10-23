@@ -47,7 +47,7 @@ data_science_hub_dhruv/
 |----------|--------------|-------------|
 | **Netflix Analytics** | Deep dive into Netflix titles, genres, and viewer trends | Pandas, Matplotlib, EDA |
 | **Credit Card Fraud Detection** | Transaction pattern detection and rule optimization | Fraud Analytics, Feature Engineering |
-| **Tableau Dashboards** | Interactive dashboards for risk metrics & KPIs | Tableau, SQL |
+| **Dashboards** | Interactive dashboards for risk metrics & KPIs | Tableau, SQL, Other vizualization platforms |
 
 *(New projects added daily — check back for updates!)*
 
