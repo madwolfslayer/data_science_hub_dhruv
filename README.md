@@ -56,7 +56,7 @@ data_science_hub_dhruv/
 ## 🛠 Setup  
 
 ```bash
-git clone https://github.com/<your-username>/data_science_hub_dhruv.git
+git clone https://github.com/madwolfslayer/data_science_hub_dhruv.git
 cd data_science_hub_dhruv
 pip install -r requirements.txt
 
