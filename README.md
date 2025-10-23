@@ -59,7 +59,7 @@ data_science_hub_dhruv/
 git clone https://github.com/madwolfslayer/data_science_hub_dhruv.git
 cd data_science_hub_dhruv
 pip install -r requirements.txt
-
+```
 Let’s connect on www.linkedin.com/in/dhruv-sharmaokstate
 Email: dhruvsreadingnook@gmail.com
 
