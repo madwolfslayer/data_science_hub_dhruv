@@ -1,4 +1,4 @@
-# 🧩 Dhruv Sharma – Data Science & Fraud Analytics Hub  
+# Dhruv Sharma – Data Science & Fraud Analytics Hub  
 
 Welcome to my all-in-one data science repository — a living notebook of everything I’ve learned, built, and explored in analytics, fraud detection, and data storytelling.
 
@@ -15,7 +15,7 @@ It includes:
 
 ---
 
-## 🗂 Repository Structure  
+## Repository Structure  
 data_science_hub_dhruv/
 │
 ├── 00_notes_and_concepts/
@@ -29,7 +29,7 @@ data_science_hub_dhruv/
 
 ---
 
-## 🧠 Featured Skills  
+## Featured Skills  
 
 | Category | Tools / Frameworks |
 |-----------|--------------------|
@@ -53,7 +53,7 @@ data_science_hub_dhruv/
 
 ---
 
-## 🛠 Setup  
+## Setup  
 
 ```bash
 git clone https://github.com/madwolfslayer/data_science_hub_dhruv.git
