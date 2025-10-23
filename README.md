@@ -49,7 +49,7 @@ data_science_hub_dhruv/
 | **Credit Card Fraud Detection** | Transaction pattern detection and rule optimization | Fraud Analytics, Feature Engineering |
 | **Tableau Dashboards** | Interactive dashboards for risk metrics & KPIs | Tableau, SQL |
 
-*(New projects added weekly — check back for updates!)*
+*(New projects added daily — check back for updates!)*
 
 ---
 
